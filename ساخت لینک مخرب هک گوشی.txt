@@ -1,0 +1,19 @@
+clear
+
+pkg install git
+
+pkg install python
+
+git clone https://github.com/noob-hackers/seeu
+
+ls
+
+cd seeu
+
+ls
+
+bash seeu.sh
+
+1
+
+دلبخواهی
